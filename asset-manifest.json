@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/job-application-form/static/css/main.5ce96bc3.chunk.css",
-    "main.js": "/job-application-form/static/js/main.cc8c7a37.chunk.js",
-    "main.js.map": "/job-application-form/static/js/main.cc8c7a37.chunk.js.map",
+    "main.css": "/job-application-form/static/css/main.5cf73224.chunk.css",
+    "main.js": "/job-application-form/static/js/main.225ec4c7.chunk.js",
+    "main.js.map": "/job-application-form/static/js/main.225ec4c7.chunk.js.map",
     "runtime-main.js": "/job-application-form/static/js/runtime-main.8cac983d.js",
     "runtime-main.js.map": "/job-application-form/static/js/runtime-main.8cac983d.js.map",
     "static/js/2.18d8c4db.chunk.js": "/job-application-form/static/js/2.18d8c4db.chunk.js",
     "static/js/2.18d8c4db.chunk.js.map": "/job-application-form/static/js/2.18d8c4db.chunk.js.map",
     "index.html": "/job-application-form/index.html",
-    "static/css/main.5ce96bc3.chunk.css.map": "/job-application-form/static/css/main.5ce96bc3.chunk.css.map",
+    "static/css/main.5cf73224.chunk.css.map": "/job-application-form/static/css/main.5cf73224.chunk.css.map",
     "static/js/2.18d8c4db.chunk.js.LICENSE.txt": "/job-application-form/static/js/2.18d8c4db.chunk.js.LICENSE.txt",
     "static/media/App.css": "/job-application-form/static/media/RenaultLifeCyWebWeb-Regular.b61e159e.woff",
     "static/media/blank-profile-picture.c3f94521.png": "/job-application-form/static/media/blank-profile-picture.c3f94521.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.8cac983d.js",
     "static/js/2.18d8c4db.chunk.js",
-    "static/css/main.5ce96bc3.chunk.css",
-    "static/js/main.cc8c7a37.chunk.js"
+    "static/css/main.5cf73224.chunk.css",
+    "static/js/main.225ec4c7.chunk.js"
   ]
 }
